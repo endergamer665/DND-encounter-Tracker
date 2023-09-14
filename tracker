@@ -1,0 +1,21 @@
+import random
+
+def spawn-enimys()
+    name = str(input("enimy name: "))
+    health = int(input("enimy health: "))
+    inishative = int(input("enimy inishative: "))
+    if inishative == "role":
+        role = random.randint(1,20)
+        print("inishative is: ")
+        role = inishative
+
+enimy = name + health + inishative 
+print(enimy)
+spawn = str(input("do you wish to spawn this enimy Y/n: "))
+if spwam == Y
+
+
+
+
+players = [""]
+enimys = [""]
